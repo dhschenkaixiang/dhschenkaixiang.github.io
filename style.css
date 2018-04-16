@@ -1,4 +1,6 @@
-
+body {
+    background-color: lightblue;
+}
 
  h1{
   font-family: Times New Roman;
@@ -13,6 +15,4 @@
 }
 
 
-body {
-    background-color: lightblue;
-}
+
